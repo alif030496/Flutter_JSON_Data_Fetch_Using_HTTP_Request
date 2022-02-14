@@ -1,0 +1,4 @@
+#Wed Feb 09 12:54:40 BDT 2022
+base.0=C\:\\Users\\alif0\\OneDrive\\Desktop\\Dart\\fetch_json_data_http_request\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

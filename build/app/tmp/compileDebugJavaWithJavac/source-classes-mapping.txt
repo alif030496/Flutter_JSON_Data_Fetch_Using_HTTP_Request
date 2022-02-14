@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/zero/fetch_json_data_http_request/BuildConfig.java
+ com.zero.fetch_json_data_http_request.BuildConfig
